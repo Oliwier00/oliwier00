@@ -1,9 +1,9 @@
 
 ## About Me
-I'm learning C# currently
+I'm 16 years old and from poland
 
 
-## Skills
+## Currently
 Learning C#
 
 
