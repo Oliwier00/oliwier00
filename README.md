@@ -1,10 +1,10 @@
 
 ## About Me
-I'm 16 years old and from poland
+I'm 17 years old and from poland
 
 
 ## Currently
-Learning C#
+Trying to learn some language
 
 
 ## Links
